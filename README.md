@@ -266,9 +266,3 @@ Potential extensions include:
 Contributions and improvements are welcome. Test changes carefully with
 a backup SD card, especially when modifying USB mass-storage callbacks,
 SD-card access, or mode switching.
-
-## License
-
-No license has been specified yet. Add a `LICENSE` file before
-redistributing the project if you want to define the terms under which
-others may use, modify, or distribute it.
